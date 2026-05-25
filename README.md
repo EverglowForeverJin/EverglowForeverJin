@@ -1,7 +1,7 @@
 ![Image](https://github.com/user-attachments/assets/0584e5b9-eaad-457b-b59f-ca4409f884d2)
 
 # Sulsul! I’m Angel! 
-A data enthusiast with a solid foundation in statistics and applied data science. Currently a second-year Master’s student in Applied Data Science at USC.
+A data enthusiast with a solid foundation in statistics, data analytics, and data science. 
 At the end of the day, everything is about data. I’m passionate about transforming real-world data into actionable insights that drive decisions and innovation.
 
 # Tech Stack:
